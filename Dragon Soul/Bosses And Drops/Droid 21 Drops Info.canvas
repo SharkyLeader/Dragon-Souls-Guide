@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d1f7d716bab0fbe3","type":"file","file":"01 - Resources/Images/Droid 21/Droid 21/Droid 21.png","x":-480,"y":-640,"width":259,"height":400},
+		{"id":"860f42b7e881139e","type":"file","file":"01 - Resources/Images/Droid 21/Droid 21/Droid 21 Pants.png","x":-320,"y":618,"width":279,"height":280},
+		{"id":"49a25c158fb8541b","type":"file","file":"01 - Resources/Images/Droid 21/Droid 21/Droid 21.png","x":-480,"y":-60,"width":259,"height":400},
+		{"id":"8c30dffa359cb8e8","type":"file","file":"01 - Resources/Images/Droid 21/Droid 21/Droid 21 Shoes.png","x":-490,"y":1000,"width":280,"height":273},
+		{"id":"a2d59fde5b2ddc32","type":"file","file":"01 - Resources/Images/Droid 21/Droid 21/Droid 21 Shirt.png","x":-658,"y":619,"width":279,"height":278},
+		{"id":"b9d9d59eb4ac6ec9","type":"file","file":"01 - Resources/Images/Droid 21/Maid 21/Maid 21.png","x":80,"y":-100,"width":277,"height":400},
+		{"id":"fd236b0b4aff1170","type":"file","file":"01 - Resources/Images/Droid 21/Demon 21/Demon 21.png","x":-1080,"y":-100,"width":309,"height":400},
+		{"id":"b5b4c2dd2b358669","type":"file","file":"01 - Resources/Images/Droid 21/Maid 21/Maid 21 Pants.png","x":219,"y":1001,"width":265,"height":273},
+		{"id":"9d68d24dfc71cf92","type":"file","file":"01 - Resources/Images/Droid 21/Maid 21/Maid 21 Shirt.png","x":539,"y":1001,"width":268,"height":273},
+		{"id":"682d4b69f3315b02","type":"file","file":"01 - Resources/Images/Droid 21/Maid 21/Maid 21 Shoes.png","x":-101,"y":1001,"width":263,"height":272},
+		{"id":"3b4a1dcf24b489ab","type":"file","file":"01 - Resources/Images/Droid 21/Demon 21/Demon 21 Shirt.png","x":-1560,"y":992,"width":285,"height":289},
+		{"id":"bca6b1f82242fef4","type":"file","file":"01 - Resources/Images/Droid 21/Demon 21/Demon 21 Pants.png","x":-1222,"y":993,"width":285,"height":288},
+		{"id":"d8c2fea8766ff96e","type":"file","file":"01 - Resources/Images/Droid 21/Demon 21/Demon 21 Shoes.png","x":-880,"y":993,"width":283,"height":289},
+		{"id":"f8e6aee3fedfea3d","type":"file","file":"01 - Resources/Images/Droid 21/Demon 21/Demon 21 Aura.png","x":-1898,"y":991,"width":281,"height":290}
+	],
+	"edges":[
+		{"id":"89e67276b4f9836c","fromNode":"d1f7d716bab0fbe3","fromSide":"bottom","toNode":"fd236b0b4aff1170","toSide":"top","label":"25%"},
+		{"id":"43e7d64530a8c468","fromNode":"d1f7d716bab0fbe3","fromSide":"bottom","toNode":"b9d9d59eb4ac6ec9","toSide":"top","label":"25%"},
+		{"id":"410c631a6cd0337e","fromNode":"d1f7d716bab0fbe3","fromSide":"bottom","toNode":"49a25c158fb8541b","toSide":"top","label":"50%"},
+		{"id":"8122594182e43e53","fromNode":"49a25c158fb8541b","fromSide":"bottom","toNode":"a2d59fde5b2ddc32","toSide":"top","label":"12%"},
+		{"id":"27c58af8b82bee1f","fromNode":"49a25c158fb8541b","fromSide":"bottom","toNode":"860f42b7e881139e","toSide":"top","label":"15%"},
+		{"id":"37148db5194e3856","fromNode":"49a25c158fb8541b","fromSide":"bottom","toNode":"8c30dffa359cb8e8","toSide":"top","label":"15%"},
+		{"id":"ed234417f5597b11","fromNode":"b9d9d59eb4ac6ec9","fromSide":"bottom","toNode":"682d4b69f3315b02","toSide":"top","label":"5%"},
+		{"id":"571cbe568f9f1f44","fromNode":"b9d9d59eb4ac6ec9","fromSide":"bottom","toNode":"b5b4c2dd2b358669","toSide":"top","label":"5%"},
+		{"id":"05ec9399ea8c3208","fromNode":"b9d9d59eb4ac6ec9","fromSide":"bottom","toNode":"9d68d24dfc71cf92","toSide":"top","label":"5%"},
+		{"id":"55f5ad90c422c4f0","fromNode":"fd236b0b4aff1170","fromSide":"bottom","toNode":"d8c2fea8766ff96e","toSide":"top","label":"10%"},
+		{"id":"ce9f89324079d968","fromNode":"fd236b0b4aff1170","fromSide":"bottom","toNode":"bca6b1f82242fef4","toSide":"top","label":"10%"},
+		{"id":"37cb8d1537dc5c50","fromNode":"fd236b0b4aff1170","fromSide":"bottom","toNode":"3b4a1dcf24b489ab","toSide":"top","label":"8%"},
+		{"id":"d89ba9604e095dc5","fromNode":"fd236b0b4aff1170","fromSide":"bottom","toNode":"f8e6aee3fedfea3d","toSide":"top","label":"2%"}
+	]
+}
